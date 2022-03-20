@@ -1,0 +1,10 @@
+hello test
+echo hi to helm
+
+this is a hello world program in orb
+and i am inline documentation
+what a pleasure to cross paths
+
+#!lua
+io.write('hi')
+#/lua
